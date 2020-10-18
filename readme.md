@@ -8,7 +8,7 @@
         [(1.0, 'Michael Phillips'), (1.0, 'Toby'), (1.5, 'Claudia Puig'),
         (2.5, 'Lisa Rose'), (3.0, 'Jack Matthews'), (3.5, 'Mick Lasalle'),
         (5.5, 'Gene Seymour')]  
-        ```
+        ```  
     (b) Film recommended by the nearest neighbour of Toby (`recommendNearestNeighbour()`)  
         `[('Lady', 1.5), ('Luck', 4.0)]`  
     (c) i. Recommend Anne a film using s'  
